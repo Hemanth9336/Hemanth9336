@@ -10,7 +10,6 @@ I am learning toward **applied AI and Forward Deployed Engineer** work: take a m
 
 | Project | What it does |
 |---|---|
-| [Forward Deployed Engineer roadmap](https://github.com/Hemanth9336/fde-zero-to-hero-roadmap) | Six-phase, hour-budgeted path from programming foundations to RAG, agents, evals and customer delivery |
 | [IoT anomaly detection & feature selection](https://github.com/Hemanth9336/IoT-Anomaly-Detection-Feature-Selection-Genetic-Algorithm) | Capstone on CICIDS2017 and NSL-KDD: variance, correlation, PCA, LDA and genetic algorithms for lightweight intrusion detection |
 | [Invoice payment-date prediction](https://github.com/Hemanth9336/Invoice-Payment-Date-Prediction-Using-ML) | Predicts how many days late a B2B invoice will be paid (50K invoices) and buckets them for collections |
 | [Review rating predictor](https://github.com/Hemanth9336/Sentiment-Analysis-NLP-Rating-Predictor) | Streamlit app: NLTK + character n-gram TF-IDF + Linear SVM on 12.5K Amazon Alexa and Flipkart reviews |
